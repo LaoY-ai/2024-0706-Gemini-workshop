@@ -1,5 +1,6 @@
 # 2024-0706-Gemini-workshop
 # Welcome Everybody
+# this repo: https://github.com/LaoY-ai/2024-0706-Gemini-workshop
 Before your start, please make sure
 0. connect your laptop to Google Guest wifi, password: xxxxxx
 1. You have login your gmail account into your Chrome Browser.
@@ -12,8 +13,6 @@ Before your start, please make sure
 1. if you have any question, please feel free to ask the Googlers here (Xiang, Shun, LaoY, etc)
 2. In the RAG part, please name your own Document AI processors as well as the processing docs
 
-
-#the README is on this repo https://github.com/LaoY-ai/2024-0706-Gemini-workshop
 
 # Have fun
 
