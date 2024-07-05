@@ -1,7 +1,7 @@
 # 2024-0706-Gemini-workshop
 # Welcome Everybody
 Before your start, please make sure
-0. connect your laptop to Google Guest wifi, password: pUp3EkaP
+0. connect your laptop to Google Guest wifi, password: xxxxxx
 1. You have login your gmail account into your Chrome Browser.
 2. Open https://colab.research.google.com in your Chrome. Your chrome should be able to login Colab already for you. Colab can give you a ready environment without much effort of setting  things up. 
 3. On Colab, go to File->Open notebook->Github (on the right)->put the github repo (https://github.com/LaoY-ai/2024-0706-Gemini-workshop) into the search bar
