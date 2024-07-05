@@ -13,6 +13,8 @@ Before your start, please make sure
 2. In the RAG part, please name your own Document AI processors as well as the processing docs
 
 
+#the README is on this repo https://github.com/LaoY-ai/2024-0706-Gemini-workshop
+
 # Have fun
 
 
